@@ -1,0 +1,22 @@
+.song{
+    font-size: 14px;
+    font-family: "楷体";
+    font-weight: bold;
+}
+
+.english{
+    font-size: 12px;
+    line-height: 20px;
+    font-family: "Times";
+}
+
+.chinses{
+    font-size: 12px;
+    line-height: 20px;
+    font-family: "宋体";
+}
+
+.number{
+    color: red;
+    font-weight: bold;
+}

@@ -1,0 +1,28 @@
+.title{
+    width: 100%;
+    font-size: 12px;
+    line-height: 28px;
+    background:linear-gradient( to top right ,#f9fbcb,#F8F8F3);
+    /* background-size: 100% 100%; */
+}
+
+.title1{
+    font-size: 16px;
+    text-indent: 1em;
+    line-height: 30px;
+    background: #518700;
+}
+
+.title2{
+    list-style: none;
+    text-indent: 1em;
+    color: #1a66b3;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}

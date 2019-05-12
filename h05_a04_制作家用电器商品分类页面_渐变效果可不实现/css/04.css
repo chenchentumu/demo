@@ -1,0 +1,41 @@
+.name{
+    width: 300px;
+}
+
+
+
+.name1{
+    text-indent: 1em;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    line-height: 35px;
+    background:linear-gradient( to bottom ,blue,#8FC2E6);
+}
+
+
+
+.name2{
+    text-indent: 1em;
+    color: rgb(0, 140, 255);
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 30px;
+    background:linear-gradient( to bottom ,rgb(0, 140, 255),#8FC2E6);
+}
+
+a:link{
+    color: gray;
+    text-indent: 5em;
+    font-size: 12px;
+    line-height: 26px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:red;
+    text-indent: 5em;
+    font-size: 12px;
+    line-height: 26px;
+    text-decoration: underline;
+}

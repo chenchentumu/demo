@@ -1,0 +1,17 @@
+.title{
+    line-height: 40px;
+    font-weight: bold;
+}
+
+.content{
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.image{
+    vertical-align: middle;
+}
+
+.header{
+    coloR:#AE6841;
+}
